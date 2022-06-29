@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import TempApp from './components/tempApp';
+import WeatherReport from './components/WeatherReport';
 
 function App() {
   return (
     <div >
-     <TempApp/>
+     <WeatherReport/>
     </div>
   );
 }
