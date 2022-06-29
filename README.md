@@ -3,6 +3,7 @@
 Using the free version of weatherstack weather API, make a weather forecast web app that shows the current
 temperature of the location of the user’s choice. All temperatures are in Celsius.
 API
+
 **Current Weather:**
 
 http://api.weatherstack.com/current?access_key=303679edd6331634577c7de4a86e576f&query={cityname}
