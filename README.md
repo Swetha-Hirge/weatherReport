@@ -22,7 +22,6 @@ Example: http://api.weatherstack.com/current?access_key=303679edd6331634577c7de4
 
 
 **Recommendations:**
-
 ● It should fulfill the basic requirements/use-cases.
 ● Feel free to be creative with the design for inspiration refer to the below screenshot.
 ● Choose any color scheme or theme that you would like.
